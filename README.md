@@ -9,7 +9,7 @@ The link to the live site on Github Pages is (https://fridahnamudu.github.io/myt
 * git clone (git@github.com:fridahnamudu/mythirdip.git)
 * fork github repo
 ## Technologies Used
-The website is mades using HTML and CSS
+The website is mades using HTML, CSS and js
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
